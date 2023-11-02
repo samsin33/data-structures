@@ -1,4 +1,5 @@
 <pre>
+    <h3><a href="index.php">Home</a></h3>
     <h3>Expected result in <a href="a.txt">a.txt</a></h3>
     <?php
 
