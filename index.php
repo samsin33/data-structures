@@ -4,6 +4,7 @@
 	</head>
 	<body>
         <h3><a href="jsort.php">Json Sort</a></h3>
+        <h3><a href="sorting.php">Sorting</a></h3>
         <?php
             include_once "app/Nodes/Node.php";
             include_once "app/LinkedList/SingleLL.php";
